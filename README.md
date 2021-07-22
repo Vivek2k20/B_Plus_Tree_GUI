@@ -1,5 +1,6 @@
 # B+ Tree
-Implementing B+ tree using C++.This is a GUI Version which can be opened,compiled and runned on Visual Studio 2019.
+Implementing B+ tree using C++.
+This is a GUI Version developed using Winforms of .NET Framework on Visual Studio 2019.
 A Simpler,Easy to run CLI Version of the same has also been developed. You can view the project
 here : https://github.com/Vivek2k20/B_plus_Tree
 - [X] Import
