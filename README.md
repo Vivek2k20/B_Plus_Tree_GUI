@@ -15,10 +15,14 @@ here : https://github.com/Vivek2k20/B_plus_Tree
 1.  Open the Project on Visual Studio 2019 as C++ WinForms(.NET Framework) Project.
 
 2.  Make sure that you do/have the following things : 
+
 	a.	Windows Implementation of bits/stdc++.h and dirent.h in your MSVC compiler.
+	
 	b.	In the Linker section of the properties of the project,SDL Checks are turned OFF
-  c.  VS2019 adds "/FORCE:UNRESOLVED" as an additional option during compilation in the commandline.
-  d.  The C/C++ language version is set to 17.
+	
+  	c.  	VS2019 adds "/FORCE:UNRESOLVED" as an additional option during compilation in the commandline.
+	
+  	d.  	The C/C++ language version is set to 17.
 
 3. 	After ensuring the above,Just run the project.
 
@@ -51,6 +55,7 @@ also enables inserting of multiple existing records into the B+ Tree at the same
 
 1. B+ Tree Unlike B Tree is defined by two order values one for leaf node and another for non-leaf node.
 	Minimum 50% should hold on B+ Tree Node.
+	
 	a.	For Non-Leaf Nodes-
 		i.	ceil(maxInternalLimit/2)<= #of children <= maxInternalLimit
 		ii.	ceil(maxInternalLimit/2)-1<= #of keys <= maxInternalLimit-1
