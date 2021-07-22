@@ -1,0 +1,492 @@
+﻿  Deleteform.cpp
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(133,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(198,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(277,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(283,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(225,9): warning C4101: 'ch': unreferenced local variable
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(322,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(326,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(433,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(500,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(527,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(597,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(601,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(701,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(722,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(754,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(772,30): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(785,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(804,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(808,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(831,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(841,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(844,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(746,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+  Insertform.cpp
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(133,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(198,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(277,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(283,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(225,9): warning C4101: 'ch': unreferenced local variable
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(322,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(326,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(433,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(500,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(527,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(597,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(601,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(701,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(722,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(754,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(772,30): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(785,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(804,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(808,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(831,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(841,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(844,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(746,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Insertform.h(304,10): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Insertform.h(335,10): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  MyForm.cpp
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(133,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(198,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(277,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(283,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(225,9): warning C4101: 'ch': unreferenced local variable
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(322,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(326,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(433,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(500,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(527,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(597,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(601,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(701,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(722,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(754,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(772,30): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(785,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(804,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(808,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(831,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(841,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(844,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(746,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Insertform.h(304,10): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Insertform.h(335,10): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  MyForm1.cpp
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(133,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(198,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(277,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(283,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(225,9): warning C4101: 'ch': unreferenced local variable
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(322,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(326,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(433,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(500,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(527,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(597,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(601,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(701,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(722,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(754,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(772,30): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(785,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(804,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(808,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(831,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(841,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(844,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(746,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+  Printform.cpp
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(133,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(198,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(277,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(283,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(225,9): warning C4101: 'ch': unreferenced local variable
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(322,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(326,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(433,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(500,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(527,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(597,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(601,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(701,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(722,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(754,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(772,30): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(785,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(804,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(808,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(831,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(841,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(844,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(746,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+  Searchform.cpp
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(133,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(198,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(277,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(283,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(225,9): warning C4101: 'ch': unreferenced local variable
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(322,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(326,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(433,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(500,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(527,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(597,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(601,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(701,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(722,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(754,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(772,30): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(785,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(804,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(808,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(831,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(841,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(844,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(746,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Success.h(2,1): warning C4005: '_HAS_STD_BYTE': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\yvals_core.h(565): message : see previous definition of '_HAS_STD_BYTE'
+  Generating Code...
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+Insertform.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(void)" (??0BPTree@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(int,int)" (??0BPTree@@QAE@HH@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxIntChildLimit(void)" (?getMaxIntChildLimit@BPTree@@QAEHXZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxLeafNodeLimit(void)" (?getMaxLeafNodeLimit@BPTree@@QAEHXZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: class Node * __thiscall BPTree::getRoot(void)" (?getRoot@BPTree@@QAEPAVNode@@XZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: void __thiscall BPTree::setRoot(class Node *)" (?setRoot@BPTree@@QAEXPAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "private: class Node * __thiscall BPTree::firstLeftNode(class Node *)" (?firstLeftNode@BPTree@@AAEPAVNode@@PAV2@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "private: class Node * * __thiscall BPTree::findParent(class Node *,class Node *)" (?findParent@BPTree@@AAEPAPAVNode@@PAV2@0@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "bool __cdecl hasEnding(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hasEnding@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: __thiscall Node::Node(void)" (??0Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<int,class std::allocator<int> >)" (?printvec@@YAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: struct std::pair<class Node *,int> __thiscall BPTree::search(int)" (?search@BPTree@@QAE?AU?$pair@PAVNode@@H@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl searchMethod(class BPTree *,int)" (?searchMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "private: void __thiscall BPTree::insertInternal(int,class Node * *,class Node * *)" (?insertInternal@BPTree@@AAEXHPAPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeInternal(int,class Node *,class Node *)" (?removeInternal@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: void __thiscall BPTree::insert(int,struct _iobuf *)" (?insert@BPTree@@QAEXHPAU_iobuf@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeKey(int)" (?removeKey@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::display(class Node *)" (?display@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl insertionMethod(class BPTree * *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?insertionMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@HV12@11H@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl deleteMethod(class BPTree *,int)" (?deleteMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?printvec@@YAXV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl importMethod(class BPTree * *)" (?importMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "class Node * parent" (?parent@@3PAVNode@@A) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(void)" (??0BPTree@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(int,int)" (??0BPTree@@$$FQAE@HH@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxIntChildLimit(void)" (?getMaxIntChildLimit@BPTree@@$$FQAEHXZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxLeafNodeLimit(void)" (?getMaxLeafNodeLimit@BPTree@@$$FQAEHXZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: class Node * __thiscall BPTree::getRoot(void)" (?getRoot@BPTree@@$$FQAEPAVNode@@XZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: void __thiscall BPTree::setRoot(class Node *)" (?setRoot@BPTree@@$$FQAEXPAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "private: class Node * __thiscall BPTree::firstLeftNode(class Node *)" (?firstLeftNode@BPTree@@$$FAAEPAVNode@@PAV2@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "private: class Node * * __thiscall BPTree::findParent(class Node *,class Node *)" (?findParent@BPTree@@$$FAAEPAPAVNode@@PAV2@0@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "bool __cdecl hasEnding(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hasEnding@@$$FYA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: __thiscall Node::Node(void)" (??0Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<int,class std::allocator<int> >)" (?printvec@@$$FYAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: struct std::pair<class Node *,int> __thiscall BPTree::search(int)" (?search@BPTree@@$$FQAE?AU?$pair@PAVNode@@H@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl searchMethod(class BPTree *,int)" (?searchMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "private: void __thiscall BPTree::insertInternal(int,class Node * *,class Node * *)" (?insertInternal@BPTree@@$$FAAEXHPAPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeInternal(int,class Node *,class Node *)" (?removeInternal@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: void __thiscall BPTree::insert(int,struct _iobuf *)" (?insert@BPTree@@$$FQAEXHPAU_iobuf@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeKey(int)" (?removeKey@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::display(class Node *)" (?display@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl insertionMethod(class BPTree * *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?insertionMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@HV12@11H@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl deleteMethod(class BPTree *,int)" (?deleteMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?printvec@@$$FYAXV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Insertform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl importMethod(class BPTree * *)" (?importMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(void)" (??0BPTree@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(int,int)" (??0BPTree@@QAE@HH@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxIntChildLimit(void)" (?getMaxIntChildLimit@BPTree@@QAEHXZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxLeafNodeLimit(void)" (?getMaxLeafNodeLimit@BPTree@@QAEHXZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: class Node * __thiscall BPTree::getRoot(void)" (?getRoot@BPTree@@QAEPAVNode@@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: void __thiscall BPTree::setRoot(class Node *)" (?setRoot@BPTree@@QAEXPAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "private: class Node * __thiscall BPTree::firstLeftNode(class Node *)" (?firstLeftNode@BPTree@@AAEPAVNode@@PAV2@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "private: class Node * * __thiscall BPTree::findParent(class Node *,class Node *)" (?findParent@BPTree@@AAEPAPAVNode@@PAV2@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "bool __cdecl hasEnding(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hasEnding@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: __thiscall Node::Node(void)" (??0Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "void __cdecl printvec(class std::vector<int,class std::allocator<int> >)" (?printvec@@YAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: struct std::pair<class Node *,int> __thiscall BPTree::search(int)" (?search@BPTree@@QAE?AU?$pair@PAVNode@@H@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl searchMethod(class BPTree *,int)" (?searchMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "private: void __thiscall BPTree::insertInternal(int,class Node * *,class Node * *)" (?insertInternal@BPTree@@AAEXHPAPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeInternal(int,class Node *,class Node *)" (?removeInternal@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: void __thiscall BPTree::insert(int,struct _iobuf *)" (?insert@BPTree@@QAEXHPAU_iobuf@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeKey(int)" (?removeKey@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::display(class Node *)" (?display@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl insertionMethod(class BPTree * *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?insertionMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@HV12@11H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl deleteMethod(class BPTree *,int)" (?deleteMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "void __cdecl printvec(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?printvec@@YAXV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl importMethod(class BPTree * *)" (?importMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class BPTree * bPTreeinsert" (?bPTreeinsert@@3PAVBPTree@@A) already defined in Insertform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class BPTree * bPTreedelete" (?bPTreedelete@@3PAVBPTree@@A) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class Node * parent" (?parent@@3PAVNode@@A) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(void)" (??0BPTree@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(int,int)" (??0BPTree@@$$FQAE@HH@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxIntChildLimit(void)" (?getMaxIntChildLimit@BPTree@@$$FQAEHXZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxLeafNodeLimit(void)" (?getMaxLeafNodeLimit@BPTree@@$$FQAEHXZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: class Node * __thiscall BPTree::getRoot(void)" (?getRoot@BPTree@@$$FQAEPAVNode@@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: void __thiscall BPTree::setRoot(class Node *)" (?setRoot@BPTree@@$$FQAEXPAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "private: class Node * __thiscall BPTree::firstLeftNode(class Node *)" (?firstLeftNode@BPTree@@$$FAAEPAVNode@@PAV2@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "private: class Node * * __thiscall BPTree::findParent(class Node *,class Node *)" (?findParent@BPTree@@$$FAAEPAPAVNode@@PAV2@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "bool __cdecl hasEnding(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hasEnding@@$$FYA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: __thiscall Node::Node(void)" (??0Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "void __cdecl printvec(class std::vector<int,class std::allocator<int> >)" (?printvec@@$$FYAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: struct std::pair<class Node *,int> __thiscall BPTree::search(int)" (?search@BPTree@@$$FQAE?AU?$pair@PAVNode@@H@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl searchMethod(class BPTree *,int)" (?searchMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "private: void __thiscall BPTree::insertInternal(int,class Node * *,class Node * *)" (?insertInternal@BPTree@@$$FAAEXHPAPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeInternal(int,class Node *,class Node *)" (?removeInternal@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: void __thiscall BPTree::insert(int,struct _iobuf *)" (?insert@BPTree@@$$FQAEXHPAU_iobuf@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeKey(int)" (?removeKey@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::display(class Node *)" (?display@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl insertionMethod(class BPTree * *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?insertionMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@HV12@11H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl deleteMethod(class BPTree *,int)" (?deleteMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "void __cdecl printvec(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?printvec@@$$FYAXV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl importMethod(class BPTree * *)" (?importMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > msg" (?msg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Insertform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(void)" (??0BPTree@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(int,int)" (??0BPTree@@QAE@HH@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxIntChildLimit(void)" (?getMaxIntChildLimit@BPTree@@QAEHXZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxLeafNodeLimit(void)" (?getMaxLeafNodeLimit@BPTree@@QAEHXZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: class Node * __thiscall BPTree::getRoot(void)" (?getRoot@BPTree@@QAEPAVNode@@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: void __thiscall BPTree::setRoot(class Node *)" (?setRoot@BPTree@@QAEXPAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "private: class Node * __thiscall BPTree::firstLeftNode(class Node *)" (?firstLeftNode@BPTree@@AAEPAVNode@@PAV2@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "private: class Node * * __thiscall BPTree::findParent(class Node *,class Node *)" (?findParent@BPTree@@AAEPAPAVNode@@PAV2@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "bool __cdecl hasEnding(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hasEnding@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: __thiscall Node::Node(void)" (??0Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "void __cdecl printvec(class std::vector<int,class std::allocator<int> >)" (?printvec@@YAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: struct std::pair<class Node *,int> __thiscall BPTree::search(int)" (?search@BPTree@@QAE?AU?$pair@PAVNode@@H@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl searchMethod(class BPTree *,int)" (?searchMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "private: void __thiscall BPTree::insertInternal(int,class Node * *,class Node * *)" (?insertInternal@BPTree@@AAEXHPAPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeInternal(int,class Node *,class Node *)" (?removeInternal@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: void __thiscall BPTree::insert(int,struct _iobuf *)" (?insert@BPTree@@QAEXHPAU_iobuf@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeKey(int)" (?removeKey@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::display(class Node *)" (?display@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl insertionMethod(class BPTree * *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?insertionMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@HV12@11H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl deleteMethod(class BPTree *,int)" (?deleteMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "void __cdecl printvec(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?printvec@@YAXV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl importMethod(class BPTree * *)" (?importMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class BPTree * bPTreeimport" (?bPTreeimport@@3PAVBPTree@@A) already defined in MyForm.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class Node * parent" (?parent@@3PAVNode@@A) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(void)" (??0BPTree@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(int,int)" (??0BPTree@@$$FQAE@HH@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxIntChildLimit(void)" (?getMaxIntChildLimit@BPTree@@$$FQAEHXZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxLeafNodeLimit(void)" (?getMaxLeafNodeLimit@BPTree@@$$FQAEHXZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: class Node * __thiscall BPTree::getRoot(void)" (?getRoot@BPTree@@$$FQAEPAVNode@@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: void __thiscall BPTree::setRoot(class Node *)" (?setRoot@BPTree@@$$FQAEXPAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "private: class Node * __thiscall BPTree::firstLeftNode(class Node *)" (?firstLeftNode@BPTree@@$$FAAEPAVNode@@PAV2@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "private: class Node * * __thiscall BPTree::findParent(class Node *,class Node *)" (?findParent@BPTree@@$$FAAEPAPAVNode@@PAV2@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "bool __cdecl hasEnding(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hasEnding@@$$FYA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: __thiscall Node::Node(void)" (??0Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "void __cdecl printvec(class std::vector<int,class std::allocator<int> >)" (?printvec@@$$FYAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: struct std::pair<class Node *,int> __thiscall BPTree::search(int)" (?search@BPTree@@$$FQAE?AU?$pair@PAVNode@@H@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl searchMethod(class BPTree *,int)" (?searchMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "private: void __thiscall BPTree::insertInternal(int,class Node * *,class Node * *)" (?insertInternal@BPTree@@$$FAAEXHPAPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeInternal(int,class Node *,class Node *)" (?removeInternal@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: void __thiscall BPTree::insert(int,struct _iobuf *)" (?insert@BPTree@@$$FQAEXHPAU_iobuf@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeKey(int)" (?removeKey@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::display(class Node *)" (?display@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl insertionMethod(class BPTree * *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?insertionMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@HV12@11H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl deleteMethod(class BPTree *,int)" (?deleteMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "void __cdecl printvec(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?printvec@@$$FYAXV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl importMethod(class BPTree * *)" (?importMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@@Z) already defined in Deleteform.obj; second definition ignored
+MyForm1.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > msg" (?msg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Insertform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(void)" (??0BPTree@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(int,int)" (??0BPTree@@QAE@HH@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxIntChildLimit(void)" (?getMaxIntChildLimit@BPTree@@QAEHXZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxLeafNodeLimit(void)" (?getMaxLeafNodeLimit@BPTree@@QAEHXZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: class Node * __thiscall BPTree::getRoot(void)" (?getRoot@BPTree@@QAEPAVNode@@XZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: void __thiscall BPTree::setRoot(class Node *)" (?setRoot@BPTree@@QAEXPAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "private: class Node * __thiscall BPTree::firstLeftNode(class Node *)" (?firstLeftNode@BPTree@@AAEPAVNode@@PAV2@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "private: class Node * * __thiscall BPTree::findParent(class Node *,class Node *)" (?findParent@BPTree@@AAEPAPAVNode@@PAV2@0@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "bool __cdecl hasEnding(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hasEnding@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: __thiscall Node::Node(void)" (??0Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<int,class std::allocator<int> >)" (?printvec@@YAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: struct std::pair<class Node *,int> __thiscall BPTree::search(int)" (?search@BPTree@@QAE?AU?$pair@PAVNode@@H@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl searchMethod(class BPTree *,int)" (?searchMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "private: void __thiscall BPTree::insertInternal(int,class Node * *,class Node * *)" (?insertInternal@BPTree@@AAEXHPAPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeInternal(int,class Node *,class Node *)" (?removeInternal@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: void __thiscall BPTree::insert(int,struct _iobuf *)" (?insert@BPTree@@QAEXHPAU_iobuf@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeKey(int)" (?removeKey@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::display(class Node *)" (?display@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl insertionMethod(class BPTree * *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?insertionMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@HV12@11H@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl deleteMethod(class BPTree *,int)" (?deleteMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?printvec@@YAXV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl importMethod(class BPTree * *)" (?importMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "class BPTree * bPTreeprint" (?bPTreeprint@@3PAVBPTree@@A) already defined in MyForm.obj; second definition ignored
+Printform.obj : warning LNK4006: "class Node * parent" (?parent@@3PAVNode@@A) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(void)" (??0BPTree@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(int,int)" (??0BPTree@@$$FQAE@HH@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxIntChildLimit(void)" (?getMaxIntChildLimit@BPTree@@$$FQAEHXZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxLeafNodeLimit(void)" (?getMaxLeafNodeLimit@BPTree@@$$FQAEHXZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: class Node * __thiscall BPTree::getRoot(void)" (?getRoot@BPTree@@$$FQAEPAVNode@@XZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: void __thiscall BPTree::setRoot(class Node *)" (?setRoot@BPTree@@$$FQAEXPAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "private: class Node * __thiscall BPTree::firstLeftNode(class Node *)" (?firstLeftNode@BPTree@@$$FAAEPAVNode@@PAV2@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "private: class Node * * __thiscall BPTree::findParent(class Node *,class Node *)" (?findParent@BPTree@@$$FAAEPAPAVNode@@PAV2@0@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "bool __cdecl hasEnding(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hasEnding@@$$FYA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: __thiscall Node::Node(void)" (??0Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<int,class std::allocator<int> >)" (?printvec@@$$FYAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: struct std::pair<class Node *,int> __thiscall BPTree::search(int)" (?search@BPTree@@$$FQAE?AU?$pair@PAVNode@@H@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl searchMethod(class BPTree *,int)" (?searchMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "private: void __thiscall BPTree::insertInternal(int,class Node * *,class Node * *)" (?insertInternal@BPTree@@$$FAAEXHPAPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeInternal(int,class Node *,class Node *)" (?removeInternal@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: void __thiscall BPTree::insert(int,struct _iobuf *)" (?insert@BPTree@@$$FQAEXHPAU_iobuf@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeKey(int)" (?removeKey@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::display(class Node *)" (?display@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl insertionMethod(class BPTree * *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?insertionMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@HV12@11H@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl deleteMethod(class BPTree *,int)" (?deleteMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?printvec@@$$FYAXV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Printform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl importMethod(class BPTree * *)" (?importMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(void)" (??0BPTree@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(int,int)" (??0BPTree@@QAE@HH@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxIntChildLimit(void)" (?getMaxIntChildLimit@BPTree@@QAEHXZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxLeafNodeLimit(void)" (?getMaxLeafNodeLimit@BPTree@@QAEHXZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: class Node * __thiscall BPTree::getRoot(void)" (?getRoot@BPTree@@QAEPAVNode@@XZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: void __thiscall BPTree::setRoot(class Node *)" (?setRoot@BPTree@@QAEXPAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "private: class Node * __thiscall BPTree::firstLeftNode(class Node *)" (?firstLeftNode@BPTree@@AAEPAVNode@@PAV2@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "private: class Node * * __thiscall BPTree::findParent(class Node *,class Node *)" (?findParent@BPTree@@AAEPAPAVNode@@PAV2@0@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "bool __cdecl hasEnding(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hasEnding@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: __thiscall Node::Node(void)" (??0Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<int,class std::allocator<int> >)" (?printvec@@YAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: struct std::pair<class Node *,int> __thiscall BPTree::search(int)" (?search@BPTree@@QAE?AU?$pair@PAVNode@@H@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl searchMethod(class BPTree *,int)" (?searchMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "private: void __thiscall BPTree::insertInternal(int,class Node * *,class Node * *)" (?insertInternal@BPTree@@AAEXHPAPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeInternal(int,class Node *,class Node *)" (?removeInternal@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: void __thiscall BPTree::insert(int,struct _iobuf *)" (?insert@BPTree@@QAEXHPAU_iobuf@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeKey(int)" (?removeKey@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::display(class Node *)" (?display@BPTree@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl insertionMethod(class BPTree * *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?insertionMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@HV12@11H@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl deleteMethod(class BPTree *,int)" (?deleteMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?printvec@@YAXV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl importMethod(class BPTree * *)" (?importMethod@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class BPTree * bPTreesearch" (?bPTreesearch@@3PAVBPTree@@A) already defined in MyForm.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class Node * parent" (?parent@@3PAVNode@@A) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(void)" (??0BPTree@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: __thiscall BPTree::BPTree(int,int)" (??0BPTree@@$$FQAE@HH@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxIntChildLimit(void)" (?getMaxIntChildLimit@BPTree@@$$FQAEHXZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: int __thiscall BPTree::getMaxLeafNodeLimit(void)" (?getMaxLeafNodeLimit@BPTree@@$$FQAEHXZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: class Node * __thiscall BPTree::getRoot(void)" (?getRoot@BPTree@@$$FQAEPAVNode@@XZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: void __thiscall BPTree::setRoot(class Node *)" (?setRoot@BPTree@@$$FQAEXPAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "private: class Node * __thiscall BPTree::firstLeftNode(class Node *)" (?firstLeftNode@BPTree@@$$FAAEPAVNode@@PAV2@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "private: class Node * * __thiscall BPTree::findParent(class Node *,class Node *)" (?findParent@BPTree@@$$FAAEPAPAVNode@@PAV2@0@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "bool __cdecl hasEnding(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hasEnding@@$$FYA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: __thiscall Node::Node(void)" (??0Node@@$$FQAE@XZ) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<int,class std::allocator<int> >)" (?printvec@@$$FYAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: struct std::pair<class Node *,int> __thiscall BPTree::search(int)" (?search@BPTree@@$$FQAE?AU?$pair@PAVNode@@H@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl searchMethod(class BPTree *,int)" (?searchMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "private: void __thiscall BPTree::insertInternal(int,class Node * *,class Node * *)" (?insertInternal@BPTree@@$$FAAEXHPAPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeInternal(int,class Node *,class Node *)" (?removeInternal@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVNode@@0@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: void __thiscall BPTree::insert(int,struct _iobuf *)" (?insert@BPTree@@$$FQAEXHPAU_iobuf@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::removeKey(int)" (?removeKey@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall BPTree::display(class Node *)" (?display@BPTree@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVNode@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl insertionMethod(class BPTree * *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?insertionMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@HV12@11H@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl deleteMethod(class BPTree *,int)" (?deleteMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVBPTree@@H@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "void __cdecl printvec(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?printvec@@$$FYAXV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl importMethod(class BPTree * *)" (?importMethod@@$$FYA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAPAVBPTree@@@Z) already defined in Deleteform.obj; second definition ignored
+Searchform.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > msg" (?msg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Insertform.obj; second definition ignored
+Success.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > msg" (?msg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Insertform.obj; second definition ignored
+C:\Users\vivek\source\repos\B+Tree\Debug\B+Tree.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  B+Tree.vcxproj -> C:\Users\vivek\source\repos\B+Tree\Debug\B+Tree.exe
