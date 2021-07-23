@@ -1,4 +1,0 @@
-Name : Dev
-Mobile : 7345223564
-Vaccine : Covishield
-Dose : 2

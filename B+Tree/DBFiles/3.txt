@@ -1,4 +1,0 @@
-Name : Ramya
-Mobile : 9631323496
-Vaccine : Covishield
-Dose : 1

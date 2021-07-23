@@ -1,4 +1,0 @@
-Name : Rohan
-Mobile : 3221432443
-Vaccine : Covaxin
-Dose : 1

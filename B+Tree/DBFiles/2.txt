@@ -1,4 +1,0 @@
-Name : Surya
-Mobile : 9832132134
-Vaccine : Covishield
-Dose : 1

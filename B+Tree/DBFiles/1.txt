@@ -1,4 +1,0 @@
-Name : Vivek M R
-Mobile : 9380291836
-Vaccine : Covishield
-Dose : 1
