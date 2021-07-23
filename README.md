@@ -7,10 +7,13 @@ here : https://github.com/Vivek2k20/B_plus_Tree
 - [x] Search 
 - [X] Insert
 - [X] Delete
-- [X] Structuring the main Function
+- [X] Print Tree
 
 
 ## Usage :
+
+
+### Opening and Running the Project using Visual Studio 2019 : 
 
 1.  Open the Project on Visual Studio 2019 as C++ WinForms(.NET Framework) Project.
 
@@ -25,6 +28,14 @@ here : https://github.com/Vivek2k20/B_plus_Tree
   	d.  	The C/C++ language version is set to 17.
 
 3. 	After ensuring the above,Just run the project.
+
+### Running Without Opening the Project : 
+
+1.	The Project has already been compiled and converted to an executable file(.exe).
+
+2.	Just open the .exe file present inside Debug Folder.
+
+### Screenshots of the project can be found inside the Screenshots folder.
 
 
 
