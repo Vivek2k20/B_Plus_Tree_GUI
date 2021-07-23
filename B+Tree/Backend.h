@@ -282,7 +282,7 @@ string importMethod(BPTree** bPTree)
             fileName += to_string(numbers[i]) + ".txt";
             FILE* filePtr = fopen(fileName.c_str(), "r");
             (*bPTree)->insert(numbers[i], filePtr);
-            fclose(filePtr);
+            //fclose(filePtr);
             count++;
         };
     };
@@ -325,7 +325,7 @@ string insertionMethod(BPTree** bPTree, int rNo, string name, string vaccine, st
     fclose(filePtr);
     filePtr = fopen(fileName.c_str(), "r");
     (*bPTree)->insert(rNo, filePtr);
-    fclose(filePtr);
+    //fclose(filePtr);
     res = res + "Insertion of Record No. : " + to_string(rNo) + " Successful\n";
     return res;
 }
@@ -1058,7 +1058,7 @@ string BPTree::display(Node* cursor) {
         int sz = q.size();
         for (int i = 0; i < sz; i++) {
             Node* u = q.front(); q.pop();
-
+            res = res + "|| ";
             //printing keys in self
             for (int val : u->keys)
                 res = res + to_string(val) + " ";

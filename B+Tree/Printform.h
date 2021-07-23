@@ -82,15 +82,15 @@ namespace BTree {
 			// 
 			// Resulttext
 			// 
-			this->Resulttext->AutoSize = true;
 			this->Resulttext->BackColor = System::Drawing::SystemColors::ActiveCaptionText;
 			this->Resulttext->Font = (gcnew System::Drawing::Font(L"MV Boli", 18, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
 			this->Resulttext->ForeColor = System::Drawing::Color::Chartreuse;
-			this->Resulttext->Location = System::Drawing::Point(149, 173);
+			this->Resulttext->Location = System::Drawing::Point(52, 120);
 			this->Resulttext->Name = L"Resulttext";
-			this->Resulttext->Size = System::Drawing::Size(0, 31);
+			this->Resulttext->Size = System::Drawing::Size(485, 311);
 			this->Resulttext->TabIndex = 14;
+			this->Resulttext->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
 			// 
 			// Printform
 			// 
