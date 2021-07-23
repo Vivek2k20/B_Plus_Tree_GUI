@@ -7,7 +7,7 @@ here : https://github.com/Vivek2k20/B_plus_Tree
 - [x] Search 
 - [X] Insert
 - [X] Delete
-- [X] Structuring the main Function
+- [X] Print Tree
 
 
 ## Usage :
@@ -25,6 +25,8 @@ here : https://github.com/Vivek2k20/B_plus_Tree
   	d.  	The C/C++ language version is set to 17.
 
 3. 	After ensuring the above,Just run the project.
+
+4.	The Project Screenshots can be viewed in the Screenshots folder.
 
 
 
