@@ -12,6 +12,9 @@ here : https://github.com/Vivek2k20/B_plus_Tree
 
 ## Usage :
 
+
+### Opening and Running the Project using Visual Studio 2019 : 
+
 1.  Open the Project on Visual Studio 2019 as C++ WinForms(.NET Framework) Project.
 
 2.  Make sure that you do/have the following things : 
@@ -26,7 +29,13 @@ here : https://github.com/Vivek2k20/B_plus_Tree
 
 3. 	After ensuring the above,Just run the project.
 
-4.	The Project Screenshots can be viewed in the Screenshots folder.
+### Running Without Opening the Project : 
+
+1.	The Project has already been compiled and converted to an executable file(.exe).
+
+2.	Just open the .exe file present inside Debug Folder.
+
+### Screenshots of the project can be found inside the Screenshots folder.
 
 
 
