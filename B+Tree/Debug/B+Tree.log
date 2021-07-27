@@ -27,14 +27,14 @@ C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<':
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(905,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(922,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(935,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(955,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(959,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(987,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(999,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1008,27): warning C4018: '<': signed/unsigned mismatch
   Insertform.cpp
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(133,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(149,23): warning C4018: '<': signed/unsigned mismatch
@@ -64,14 +64,14 @@ C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<':
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(905,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(922,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(935,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(955,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(959,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(987,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(999,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1008,27): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Insertform.h(304,10): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Insertform.h(335,10): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
   MyForm.cpp
@@ -103,14 +103,14 @@ C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<':
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(905,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(922,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(935,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(955,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(959,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(987,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(999,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1008,27): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Insertform.h(304,10): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Insertform.h(335,10): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
   MyForm1.cpp
@@ -142,14 +142,14 @@ C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<':
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(905,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(922,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(935,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(955,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(959,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(987,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(999,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1008,27): warning C4018: '<': signed/unsigned mismatch
   Printform.cpp
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(133,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(149,23): warning C4018: '<': signed/unsigned mismatch
@@ -179,14 +179,14 @@ C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<':
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(905,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(922,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(935,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(955,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(959,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(987,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(999,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1008,27): warning C4018: '<': signed/unsigned mismatch
   Searchform.cpp
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(133,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(149,23): warning C4018: '<': signed/unsigned mismatch
@@ -216,23 +216,17 @@ C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(882,23): warning C4018: '<':
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(887,25): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(893,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(899,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(906,29): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(923,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(936,35): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(956,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(960,36): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(988,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1000,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1009,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(905,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(922,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(935,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(955,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(959,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(987,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(999,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1008,27): warning C4018: '<': signed/unsigned mismatch
 C:\Users\vivek\source\repos\B+Tree\B+Tree\Success.h(2,1): warning C4005: '_HAS_STD_BYTE': macro redefinition
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\yvals_core.h(565): message : see previous definition of '_HAS_STD_BYTE'
   Generating Code...
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
-C:\Users\vivek\source\repos\B+Tree\B+Tree\Backend.h(1021): warning C4715: 'BPTree::removeInternal': not all control paths return a value
 LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
 Insertform.obj : warning LNK4006: "public: __thiscall Node::ptr::ptr(void)" (??0ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored
 Insertform.obj : warning LNK4006: "public: __thiscall Node::ptr::~ptr(void)" (??1ptr@Node@@QAE@XZ) already defined in Deleteform.obj; second definition ignored

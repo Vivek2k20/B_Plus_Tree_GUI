@@ -768,7 +768,7 @@ string BPTree::removeKey(int x) {
         }
     }
 
-    res = res + "Deleted " + to_string(x) + " From Leaf Node successfully\n";
+    //res = res + "Deleted " + to_string(x) + " From Leaf Node successfully\n";
     if ((cursor->keys.size() >= (getMaxLeafNodeLimit() + 1) / 2)||(cursor==root)) {
         //Sufficient Node available for invariant to hold
         return res;
@@ -834,7 +834,7 @@ string BPTree::removeKey(int x) {
                 .push_back(cursor->ptr2TreeOrData.dataPtr[i]);
         }
         leftNode->ptr2next = cursor->ptr2next;
-        //res = res + "Merging two leaf Nodes\n";
+        res = res + "Merging with left node\n";
         res = res + removeInternal(parent->keys[leftSibling], parent, cursor);//delete parent Node Key
         //delete cursor;
     }
@@ -847,7 +847,7 @@ string BPTree::removeKey(int x) {
                 .push_back(rightNode->ptr2TreeOrData.dataPtr[i]);
         }
         cursor->ptr2next = rightNode->ptr2next;
-        //res = res + "Merging two leaf Nodes\n";
+        res = res + "Merging wiht right node\n";
         res = res + removeInternal(parent->keys[rightSibling - 1], parent, rightNode);//delete parent Node Key
         //delete rightNode;
     }
@@ -899,8 +899,7 @@ string BPTree::removeInternal(int x, Node* cursor, Node* child) {
     for (int i = pos; i < cursor->ptr2TreeOrData.ptr2Tree.size() - 1; i++) {
         cursor->ptr2TreeOrData.ptr2Tree[i] = cursor->ptr2TreeOrData.ptr2Tree[i + 1];
     }
-    cursor->ptr2TreeOrData.ptr2Tree
-        .resize(cursor->ptr2TreeOrData.ptr2Tree.size() - 1);
+    cursor->ptr2TreeOrData.ptr2Tree.resize(cursor->ptr2TreeOrData.ptr2Tree.size() - 1);
 
     // If there is No underflow. Phew!!
     if (cursor->keys.size() >= (getMaxIntChildLimit() + 1) / 2 - 1) {
@@ -995,7 +994,7 @@ string BPTree::removeInternal(int x, Node* cursor, Node* child) {
         cursor->keys.resize(0);
 
         removeInternal(parent->keys[leftSibling], parent, cursor);
-        //cout << "Merged with left sibling" << endl;
+        res=res+"Merged with left sibling\n";
     }
     else if (rightSibling < parent->ptr2TreeOrData.ptr2Tree.size()) {
         //cursor + parentkey +rightNode
@@ -1016,8 +1015,9 @@ string BPTree::removeInternal(int x, Node* cursor, Node* child) {
         rightNode->keys.resize(0);
 
         removeInternal(parent->keys[rightSibling - 1], parent, rightNode);
-        //cout << "Merged with right sibling\n";
+        res=res+"Merged with right sibling\n";
     }
+    return res;
 }
 
 //DISPLAY//

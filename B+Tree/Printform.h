@@ -74,7 +74,7 @@ namespace BTree {
 			this->label4->Font = (gcnew System::Drawing::Font(L"MV Boli", 36, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Underline)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(0)));
 			this->label4->ForeColor = System::Drawing::SystemColors::ControlLightLight;
-			this->label4->Location = System::Drawing::Point(225, 41);
+			this->label4->Location = System::Drawing::Point(719, 37);
 			this->label4->Name = L"label4";
 			this->label4->Size = System::Drawing::Size(130, 63);
 			this->label4->TabIndex = 13;
@@ -88,7 +88,7 @@ namespace BTree {
 			this->Resulttext->ForeColor = System::Drawing::Color::Chartreuse;
 			this->Resulttext->Location = System::Drawing::Point(52, 120);
 			this->Resulttext->Name = L"Resulttext";
-			this->Resulttext->Size = System::Drawing::Size(485, 311);
+			this->Resulttext->Size = System::Drawing::Size(1489, 703);
 			this->Resulttext->TabIndex = 14;
 			this->Resulttext->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
 			// 
@@ -97,7 +97,7 @@ namespace BTree {
 			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->BackgroundImage = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"$this.BackgroundImage")));
-			this->ClientSize = System::Drawing::Size(584, 461);
+			this->ClientSize = System::Drawing::Size(1584, 861);
 			this->Controls->Add(this->Resulttext);
 			this->Controls->Add(this->label4);
 			this->Name = L"Printform";
